@@ -1,6 +1,6 @@
 ### Hi there Fahad Shaikh here 👋
 
-- 🔭 I’m currently working on React Native
+- 🔭 I’m currently working on Logic Building
 
 <!--
 **fahadshaikh99/fahadshaikh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
