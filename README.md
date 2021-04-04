@@ -11,11 +11,15 @@
 - ⚡ Fun fact: I code better at night
 - 📫 How to reach me: fahadnaeemsheikh@outlook.com;
 
-<img height="200" align="right"  src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-512.png">
-<img height="200" align="right" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
 
 <!--
 **fahadshaikh99/fahadshaikh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<img height="200" align="right"  src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-512.png">
+<img height="200" align="right" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+
 
 Here are some ideas to get you started:
 
