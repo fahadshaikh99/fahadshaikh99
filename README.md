@@ -6,7 +6,7 @@
 <br />
 
 - 🔭 I’m currently working on React Native
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Swift
 - 💬 Ask me any thing
 - ⚡ Fun fact: I code better at night
 <!--
